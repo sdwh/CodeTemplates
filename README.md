@@ -25,6 +25,8 @@ Create New Folder in ASP.NET MVC Projects **CodeTemplates**
         ModelMetadataFunctions.cs.include.t4
 ```
 
+## Demos
+
 ![List Style](https://raw.githubusercontent.com/sdwh/CodeTemplates/master/Images/List.png)
 
 ![Create Style](https://raw.githubusercontent.com/sdwh/CodeTemplates/master/Images/Create.png)
